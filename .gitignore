@@ -29,6 +29,12 @@ wp-config.php
 # Uploads
 /wp-content/uploads/
 
+app/public/wp-content/updraft/backup_2023-12-03-1946_Esbjerg_Museum_f50df766e39e-uploads.zip
+
+app/public/wp-content/ai1wm-backups/esbjerg-museum.local-20231203-200101-kwu3hh.wpress
+
+app/public/wp-content/ai1wm-backups/esbjerg-museum.local-20231203-201911-vmjtzw.wpress
+
 # Log files
 *.log
 
